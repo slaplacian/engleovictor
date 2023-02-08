@@ -1,2 +1,2 @@
 ## BIO
-Engineering student. :pencil:
+Computer Engineering student. :pencil:

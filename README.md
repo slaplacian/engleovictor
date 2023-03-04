@@ -27,7 +27,7 @@ Computer Engineering student @ Instituto Militar de Engenharia (IME).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engleovictor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<div style="display: flex;">
+<div align="center" style="display: flex;">
   <div>
     <img height="180em"  width="360em" src="https://github-readme-stats.vercel.app/api?username=engleovictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>

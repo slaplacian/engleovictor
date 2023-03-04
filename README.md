@@ -29,10 +29,10 @@ Computer Engineering student @ Instituto Militar de Engenharia (IME).
 
 <div align="center" style="display: flex;">
   <div>
-    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=engleovictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="700em" src="https://github-readme-stats.vercel.app/api?username=engleovictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
   <div>
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engleovictor&layout=compact&theme=dark"/>
+    <img width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engleovictor&layout=compact&theme=dark"/>
   </div>
 </div>
 
